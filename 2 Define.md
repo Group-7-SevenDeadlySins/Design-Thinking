@@ -10,3 +10,6 @@
 ![10](https://user-images.githubusercontent.com/88099446/139046948-48d3694a-e845-4c01-9446-2943cac2ee9f.png)
 
 ![11](https://user-images.githubusercontent.com/88099446/139046973-8b73af4c-cdd1-47b7-ab1f-a7c9df03b60e.png)
+
+
+Ideate https://github.com/Group-7-SevenDeadlySins/Design-Thinking/blob/main/3%20Ideate.md
