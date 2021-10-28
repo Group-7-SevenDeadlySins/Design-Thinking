@@ -2,3 +2,4 @@
 ![4](https://user-images.githubusercontent.com/88100228/139046780-a3fcf237-f1b9-4fd4-aad0-a3a095f13425.png)
 ![image](https://user-images.githubusercontent.com/88129306/139047591-ce8758c1-b40e-4b8f-8a90-2ad2a9fa66ea.png)
 
+Define https://github.com/Group-7-SevenDeadlySins/Design-Thinking/blob/main/2%20Define.md
