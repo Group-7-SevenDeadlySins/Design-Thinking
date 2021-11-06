@@ -1,5 +1,6 @@
-Prototype https://www.figma.com/proto/qCxX3AbxlHTTU5L76OZgie/JPPEG-APP?page-id=0%3A1&node-id=12%3A222&viewport=241%2C48%2C0.7&scaling=scale-down&starting-point-node-id=12%3A222&show-proto-sidebar=1
+Link Prototype : https://www.figma.com/proto/qCxX3AbxlHTTU5L76OZgie/JPPEG-APP?page-id=0%3A1&node-id=12%3A222&viewport=241%2C48%2C0.7&scaling=scale-down&starting-point-node-id=12%3A222&show-proto-sidebar=1
 
+# <p align="center"> App </p>
 ![1](https://user-images.githubusercontent.com/88100228/140607869-65f6fdab-f150-44fa-aace-3a27fc8fc580.png)
 ![2](https://user-images.githubusercontent.com/88100228/140607870-68888742-a90f-4cb3-846d-dafe42d564fa.png)
 ![3](https://user-images.githubusercontent.com/88100228/140607881-e73946c4-44a8-4164-880e-70775db1ea9e.png)
