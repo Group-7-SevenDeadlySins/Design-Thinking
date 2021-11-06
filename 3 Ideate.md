@@ -1,3 +1,5 @@
+# Sketch design
+
 ![S__6488072](https://user-images.githubusercontent.com/88100228/139051978-98837131-c95a-4161-9f37-e9a6c333a313.jpg)
 ![S__6488074](https://user-images.githubusercontent.com/88100228/139051997-629f66a6-ac7a-4d48-b1f5-302fac2f7720.jpg)
 ![S__6488075](https://user-images.githubusercontent.com/88100228/139052010-7d768664-f79d-46a1-a1ce-5c36c9ea980e.jpg)
@@ -13,5 +15,7 @@
 ![image](https://user-images.githubusercontent.com/76994786/139054183-03aa81ab-12bc-4e84-a306-17c7e50e041b.png)
 ![image](https://user-images.githubusercontent.com/76994786/139054203-f1695ee8-fd41-489e-aa31-701374ab1375.png)
 
+# เลือก
+![image](https://user-images.githubusercontent.com/76994786/139054183-03aa81ab-12bc-4e84-a306-17c7e50e041b.png)
 
 Prototype https://github.com/Group-7-SevenDeadlySins/Design-Thinking/blob/main/4%20Prototype.md
